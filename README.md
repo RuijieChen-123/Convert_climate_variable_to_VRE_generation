@@ -1,3 +1,5 @@
+Code used to temporally downscale daily climate projections and convert to VRE generations (corresponding to a manuscript submitted to Scientific Data).
+
 read_WFDE5_data.m and read_WFDE5_data_adding_pressure.m are used to read 5 meteorological variables from WFDE5 dataset.
 
 downscale.m is used to read ISIMIP projections temporally downscale daily meteorological variables.
