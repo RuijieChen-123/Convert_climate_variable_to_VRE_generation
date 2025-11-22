@@ -8,7 +8,7 @@ analog_extend.m and find_similar_multi_MV3_lag_ahead.m are downscaling function.
 
 convert_to_VRE.m is used to convert meteorological variables to VRE generation.
 
-get_W_consider_Pr.m and get_PV_dc2ac.m are used to convert meteorological variables to wind power / PV generation, respectively. 
+get_W_consider_PrV2.m (get_W_consider_Pr.m is not used) and get_PV_dc2ac.m are used to convert meteorological variables to wind power / PV generation, respectively. 
 
 getWoutputV3.m and f_convert_to_W_allgrid_another_method.m are functions in get_W_consider_Pr.m.
 
